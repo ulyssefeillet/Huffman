@@ -1,4 +1,4 @@
-#MODE D'EMPLOI
+# MODE D'EMPLOI
 
 ## Lancement du programme
 
